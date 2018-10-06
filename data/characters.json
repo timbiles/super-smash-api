@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1",
+        "name": "Mario",
+        "universe": "Super Mario",
+        "species": "Human",
+        "games": [
+            "Super Smash Bros. Hello",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/2/2a/35246342-22E5-4AAA-8F86-C5C83BB35225.png/revision/latest?cb=20180912190959"
+    },
+    {
+        "id": "2",
+        "name": "Donkey Kong",
+        "universe": "Donkey Kong",
+        "species": "Kong",
+        "games": [
+            "Super Smash Bros. N64",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/b/b5/DK_%28DKCTF%29.png/revision/latest?cb=20130617145404"
+    },
+    {
+        "id": "3",
+        "name": "Link",
+        "universe": "The Legend of Zelda",
+        "species": "Hylian",
+        "games": [
+            "Super Smash Bros. N64",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/7/72/C64E8E7F-E26B-4A70-88F3-B7D643E73E9C.png/revision/latest?cb=20180828233701"
+    },
+    {
+        "id": "4",
+        "name": "Samus",
+        "universe": "Metroid",
+        "species": "Human (infused with Chozo and Metroid DNA",
+        "games": [
+            "Super Smash Bros. N64",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/0/09/340FC5CD-A721-437F-97B9-811B8D454FD2.png/revision/latest?cb=20181003135342"
+    },
+    {
+        "id": "5",
+        "name": "Yoshi",
+        "universe": "Super Mario",
+        "species": "Yoshi",
+        "games": [
+            "Super Smash Bros. N64",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/6/62/MP10_Yoshi.png/revision/latest?cb=20180725021403"
+    },
+    {
+        "id": "6",
+        "name": "Kirby",
+        "universe": "Kirby",
+        "species": "Unknown",
+        "games": [
+            "Super Smash Bros. N64",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/f/f4/BF9A7720-0734-4609-B76C-65624055A1FF.png/revision/latest?cb=20180813140735"
+    },
+    {
+        "id": "7",
+        "name": "Fox McCloud",
+        "universe": "Star Fox",
+        "species": "Fox",
+        "games": [
+            "Super Smash Bros. N64",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/5/5a/SFZ_Fox_McCloud.png/revision/latest?cb=20180723022401"
+    },
+    {
+        "id": "8",
+        "name": "Pikachu",
+        "universe": "Pokémon",
+        "species": "Pikachu",
+        "games": [
+            "Super Smash Bros. N64",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/0/0d/025Pikachu.png/revision/latest?cb=20180707004613"
+    },
+    {
+        "id": "9",
+        "name": "Luigi",
+        "universe": "Super Mario",
+        "species": "Human",
+        "games": [
+            "Super Smash Bros. N64",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/5/58/AE68CFE3-2038-48ED-B60D-5A01B1FEB9CB.png/revision/latest?cb=20180912132051"
+    },
+    {
+        "id": "10",
+        "name": "Ness",
+        "universe": "Earth Bound",
+        "species": "Human",
+        "games": [
+            "Super Smash Bros. N64",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/4/48/Ness_Clay.png/revision/latest?cb=20141003002958"
+    },
+    {
+        "id": "11",
+        "name": "Captain Falcon",
+        "universe": "F-Zero",
+        "species": "Human",
+        "games": [
+            "Super Smash Bros. N64",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/3/34/Captainfalcon_Artwork.jpg/revision/latest?cb=20140803021034"
+    },
+    {
+        "id": "12",
+        "name": "Jigglypuff",
+        "universe": "Pokémon",
+        "species": "Jigglypuff",
+        "games": [
+            "Super Smash Bros. N64",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/3/3e/039Jigglypuff.png/revision/latest?cb=20180707004942"
+    }
+]
