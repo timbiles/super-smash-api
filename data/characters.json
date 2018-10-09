@@ -5,7 +5,7 @@
         "universe": "Super Mario",
         "species": "Human",
         "games": [
-            "Super Smash Bros. Hello",
+            "Super Smash Bros. N64",
             "Super Smash Bros. Melee",
             "Super Smash Bros. Brawl",
             "Super Smash Bros. Melee",
@@ -178,5 +178,75 @@
             "Super Smash Bros. Ultimate"
         ],
         "img": "https://vignette.wikia.nocookie.net/ssb/images/3/3e/039Jigglypuff.png/revision/latest?cb=20180707004942"
+    },
+    {
+        "id": "13",
+        "name": "Peach",
+        "universe": "Super Mario",
+        "species": "Human",
+        "games": [
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/b/b7/SuperMarioParty_Peach_2.png/revision/latest?cb=20181007224725"
+    },
+    {
+        "id": "14",
+        "name": "Bowser",
+        "universe": "Super Mario",
+        "species": "Koopa",
+        "games": [
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Bowser_-_New_Super_Mario_Bros_2.png/220px-Bowser_-_New_Super_Mario_Bros_2.png"
+    },
+    {
+        "id": "15",
+        "name": "Ice Climbers",
+        "universe": "Ice Climber",
+        "species": "Humans",
+        "games": [
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/ssb/images/c/c9/Ice_Climbers_Clear_SSBB.png/revision/latest?cb=20160118011235"
+    },
+    {
+        "id": "16",
+        "name": "Sheik",
+        "universe": "The Legend of Zelda",
+        "species": "Hylian",
+        "games": [
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://vignette.wikia.nocookie.net/fantendo/images/7/78/OoT_Sheik_PM.png/revision/latest?cb=20150331012045"
+    },
+    {
+        "id": "17",
+        "name": "Zelda",
+        "universe": "The Legend of Zelda",
+        "species": "Hylian",
+        "games": [
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. for Nintendo 3DS & Wii U",
+            "Super Smash Bros. Ultimate"
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Zelda_png.png/220px-Zelda_png.png"
     }
 ]
